@@ -19,3 +19,6 @@ This can be reduced to an approximate closest-vector problem (CVP) in a lattice 
 
 -  Convert the first 32 integers to characters to obtain the flag.
 
+## Flag
+`The flag is:  TUDCTF{liN3AR_L4GRAn93?LL1-TiM3}`
+
